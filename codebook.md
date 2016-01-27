@@ -16,27 +16,27 @@ These signals were used to estimate variables of the feature vector for each pat
 '-XYZ' are used to denote 3-axial signals in the X, Y and Z directions.
 
 ###Measurement Variables
-*`TimeBodyAccelerometer-XYZ`
-*`TimeGravityAccelerometer-XYZ`
-*`TimeBodyAccelerometerJerk-XYZ`
-*`TimeBodyGyroscope-XYZ`
-*`TimeBodyGyroscopeJerk-XYZ`
-*`TimeBodyAccelerometerMagnitude`
-*`TimeGravityAccelerometerMagnitude`
-*`TimeBodyAccelerometerJerkMagnitude`
-*`TimeBodyGyroscopeMagnitude`
-*`TimeBodyGyroscopeJerkMagnitude`
-*`FreqBodyAccelerometer-XYZ`
-*`FreqBodyAccelerometerJerk-XYZ`
-*`FreqBodyGyroscope-XYZ`
-*`FreqBodyAccelerometerMagnitude`
-*`FreqBodyAccelerometerJerkMagnitude`
-*`FreqBodyGyroscopeMagnitude`
-*`FreqBodyGyroscopeJerkMagnitude`
+* `TimeBodyAccelerometer-XYZ`
+* `TimeGravityAccelerometer-XYZ`
+* `TimeBodyAccelerometerJerk-XYZ`
+* `TimeBodyGyroscope-XYZ`
+* `TimeBodyGyroscopeJerk-XYZ`
+* `TimeBodyAccelerometerMagnitude`
+* `TimeGravityAccelerometerMagnitude`
+* `TimeBodyAccelerometerJerkMagnitude`
+* `TimeBodyGyroscopeMagnitude`
+* `TimeBodyGyroscopeJerkMagnitude`
+* `FreqBodyAccelerometer-XYZ`
+* `FreqBodyAccelerometerJerk-XYZ`
+* `FreqBodyGyroscope-XYZ`
+* `FreqBodyAccelerometerMagnitude`
+* `FreqBodyAccelerometerJerkMagnitude`
+* `FreqBodyGyroscopeMagnitude`
+* `FreqBodyGyroscopeJerkMagnitude`
 
 The set of variables that were estimated from these signals are:
-*`Mean`: Mean value
-*`StDev`: Standard deviation
+* `Mean`: Mean value
+* `StDev`: Standard deviation
 
 ###Identification Variables
 * `subjectID` - The unique number identifying the test subject for each reading.
